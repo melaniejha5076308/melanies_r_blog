@@ -6,7 +6,7 @@ author:
   - name: Nora Jones
     url: https://example.com/norajones
 date: 2023-06-08
-output:
+output: "docs"
   distill::distill_article:
     self_contained: false
 ---
