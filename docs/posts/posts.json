@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2023-06-08-i-love-musicals-craft-random-history-and-overthinking/",
+    "title": "I love musicals, craft, random history and overthinking.",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-06-08",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-06-08T17:22:31+10:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Melanie Jha's health data science blog",
     "description": "Welcome to our new blog, Melanie Jha's health data science blog. We hope you enjoy \nreading what we have to say!",
